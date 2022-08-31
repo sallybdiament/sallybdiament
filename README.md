@@ -15,6 +15,10 @@ const languages = [English, Spanish, French];
   }
 
 
-- 🔭 I’m currently working on Front End project with React
+
+          
+          
+
+- 🔭 I’m currently working on Front End projects with React
 - 🌱 I’m currently learning full stack web dev at Trybe
 - 📫 How to reach me: sally.barzilai@gmail.com
