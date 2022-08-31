@@ -1,7 +1,7 @@
 Hi there 👋
 
 ```
-const name = '**Sally Barzilai Diament**';
+const name = 'Sally Barzilai Diament';
 
 const graduation = 'Business School Insper';
 
