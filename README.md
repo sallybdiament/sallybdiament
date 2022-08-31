@@ -4,7 +4,17 @@ const name = 'Sally Barzilai Diament';
 
 const graduation = 'Business School Insper';
 
-const languages = [English, Spanish, French];
+  if (languages === ['English', 'Spanish', 'French'])   {
+  
+
+    return '👋fluently'
+  }
+  
+  if (languages === 'Javascript')  {
+ 
+ 
+    return '🌱learning'
+  }
 
   let learning = {
   
@@ -12,11 +22,7 @@ const languages = [English, Spanish, French];
       Ebac workshop: 'customer experience',
       Ebac workshop: 'product manager',
   
-  }
-
-
-
-          
+  }          
           
 
 - 🔭 I’m currently working on Front End projects with React
