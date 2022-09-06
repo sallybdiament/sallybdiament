@@ -27,8 +27,8 @@ const graduation = 'Business School Insper';
   
   }      
  
-  ```             
- 
+  ```
+  
  [My LinkedIn](https://www.linkedin.com/in/sallybarzilaidiament/)
 
 - 🔭 I’m currently working on Front End projects with React
