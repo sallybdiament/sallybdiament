@@ -10,7 +10,6 @@ const graduation = 'Business School Insper';
 
     return 'fluently'
   }
-  :surfer:
   
   if (languages === 'Javascript')  {
  
