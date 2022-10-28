@@ -33,3 +33,6 @@ const graduation = 'Business School Insper';
 - 🔭 I’m currently working on Front End projects with React
 - 🌱 I’m currently learning full stack web dev at Trybe
 - 📫 How to reach me: sally.barzilai@gmail.com
+
+
+[![Sally's GitHub stats](https://github-readme-stats.vercel.app/api?username=sallybdiament)](https://github.com/sallybdiament/github-readme-stats)
