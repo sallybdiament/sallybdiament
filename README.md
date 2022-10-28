@@ -21,7 +21,7 @@ const graduation = 'Business School Insper';
  
     return 'learning'
   }
-  🌱
+ 
 
   let learning = {
   
@@ -83,3 +83,5 @@ const graduation = 'Business School Insper';
 
 </td></tr>
 </table>
+
+[Snake animation](https://github.com/sallybdiament/sallybdiament/blob/output/github-contribution-grid-snake.svg)
