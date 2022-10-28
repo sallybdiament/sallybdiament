@@ -33,10 +33,6 @@ const graduation = 'Business School Insper';
  
   ```
   
- [My LinkedIn](https://www.linkedin.com/in/sallybarzilaidiament/)
-
-- 🔭 I’m currently working on Front End projects with React
-- 🌱 I’m currently learning full stack web dev at Trybe
 <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" /> </a> How to reach me 📫: sally.barzilai@gmail.com
 
