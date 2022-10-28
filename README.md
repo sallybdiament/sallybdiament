@@ -1,3 +1,8 @@
+<a href="https://www.linkedin.com/in/sallybarzilaidiament/">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
+	title="Linkedin Sally Barzilai Diament" width="20%" height="auto" />
+</a>
+
 Hi there 👋
 
 ```
@@ -34,6 +39,9 @@ const graduation = 'Business School Insper';
 - 🌱 I’m currently learning full stack web dev at Trybe
 - 📫 How to reach me: sally.barzilai@gmail.com
 
+  <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />
+  </a>
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -52,19 +60,6 @@ const graduation = 'Business School Insper';
   <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
-</div>
-
-## Minhas Redes Sociais
-<div>
-  <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrieldalseco/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.facebook.com/gabriel.dalseco.1/" target="_blank">
-    <img width="64px" alt="" src="./images/facebook.png" />
-  </a>
 </div>
 
 ## GitHub Stats
