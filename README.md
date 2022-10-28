@@ -20,16 +20,21 @@ const graduation = 'Business School Insper';
   ```
 
 ## How to reach me
+<div align="center">
+	<a href="https://www.linkedin.com/in/sallybarzilaidiament/">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
+	title="Linkedin Sally Barzilai Diament" width="20%" height="auto" />
+<br>	
+	</a>
 <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" /> </a>  
 
-<a href="https://www.linkedin.com/in/sallybarzilaidiament/">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
-	title="Linkedin Sally Barzilai Diament" width="20%" height="auto" />
-</a>
+
   
 📫: sally.barzilai@gmail.com
 
+</div>	
+	
 ## My Technical Skills
 
 <div id='lojc' align="center">
@@ -58,8 +63,10 @@ const graduation = 'Business School Insper';
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
 </div>
+	</div>
 
 ## GitHub Stats
+<div align="center">
 <table>
 <tr><td>
 
@@ -75,3 +82,4 @@ const graduation = 'Business School Insper';
 
 </td></tr>
 </table>
+	</div>
