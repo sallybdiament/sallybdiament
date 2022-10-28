@@ -83,5 +83,3 @@ const graduation = 'Business School Insper';
 
 </td></tr>
 </table>
-
-[Snake animation](https://github.com/sallybdiament/sallybdiament/blob/output/github-contribution-grid-snake.svg)
