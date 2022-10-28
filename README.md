@@ -1,42 +1,34 @@
+Hi there 👋
+
+```js
+const name = 'Sally Barzilai Diament';
+const graduation = 'Business School Insper';
+  
+  if (languages === 'Javascript')  {
+    return 'learning'
+  }
+
+  if (languages === ['English', 'Spanish', 'French', 'Portuguese'])   {
+    return 'fluently'
+  } 
+
+  let learning = {
+      Trybe: 'full stack web developer',
+      Ebac workshop: 'customer experience',
+      Ebac workshop: 'product manager',
+  }      
+  ```
+
+## How to reach me
+<a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" /> </a>  
+
 <a href="https://www.linkedin.com/in/sallybarzilaidiament/">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
 	title="Linkedin Sally Barzilai Diament" width="20%" height="auto" />
 </a>
-
-Hi there 👋
-
-```
-const name = 'Sally Barzilai Diament';
-
-const graduation = 'Business School Insper';
-
-  if (languages === ['English', 'Spanish', 'French'])   {
   
-
-    return 'fluently'
-  }
-  
-  if (languages === 'Javascript')  {
- 
- 
-    return 'learning'
-  }
- 
-
-  let learning = {
-  
-      Trybe: 'full stack web developer',
-      Ebac workshop: 'customer experience',
-      Ebac workshop: 'product manager',
-  
-  }      
- 
-  ```
-  
-<a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" /> </a> How to reach me 📫: sally.barzilai@gmail.com
-
-  
+📫: sally.barzilai@gmail.com
 
 ## My Technical Skills
 
