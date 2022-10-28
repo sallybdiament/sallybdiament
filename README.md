@@ -11,6 +11,7 @@ const languages1= ['Javascript'];
     	return 'true' }
   }
 
+languages1.push('TypeScript');     <!--  learning now -->
 languages1.push('Python');     <!--  learning soon -->
 
 const languages2= ['English', 'Spanish', 'French', 'Portuguese'];  
