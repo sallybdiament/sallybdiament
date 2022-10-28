@@ -3,14 +3,22 @@ Hi there 👋
 ```js
 const name = 'Sally Barzilai Diament';
 const graduation = 'Business School Insper';
+
+const languages1= ['Javascript'];  
   
-  if (languages === 'Javascript')  {
-    return 'learning'
+  const checkStatusLanguages1 = (languages1) => {
+    if (languages1.every((language) => { languague === 'learning' }) {
+    	return 'true' }
   }
 
-  if (languages === ['English', 'Spanish', 'French', 'Portuguese'])   {
-    return 'fluently'
-  } 
+languages1.push('Python');     <!--  learning soon -->
+
+const languages2= ['English', 'Spanish', 'French', 'Portuguese'];  
+  
+  const checkStatusLanguages2 = (languages2) => {
+    if (languages2.every((language) => { languague === 'fluently' }) {
+    	return 'true' }
+  }
 
   let learning = {
       Trybe: 'full stack web developer',
